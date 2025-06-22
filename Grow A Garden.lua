@@ -1,5 +1,6 @@
 -- hella unoptimized script cuz this game ahh :pray: steal best fruit is made by @prxmxthzn on discord
 -- YO SKID!!!!
+-- ikr unobfuscated cuz yes skids.
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
